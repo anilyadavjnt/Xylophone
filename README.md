@@ -74,17 +74,17 @@ This project demonstrates:
 ![Xylophone App](screenshots/xylophone.png)
 ```
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
 **Anil Kumar Yadav**
+iOS Developer | Swift | UIKit
 
-iOS Developer | Swift | UIKit | REST APIs | Firebase | MVVM
+If you like this project, ⭐ **star the repository** and feel free to share your feedback!
 
-* LinkedIn: linkedin.com/in/anilyadavjnt
-* GitHub: github.com/anilyadavjnt
-* Portfolio: portfolio-anilyadavjnt.vercel.app
+Anil Yadav ( iOS Developer )
 
----
+* LinkedIn: www.linkedin.com/in/anilyadavjnt
+* Portfolio: https://portfolio-anilyadavjnt.vercel.app
+* Email: anilyadavjnt@gmail.com
 
-⭐ If you find this project useful, consider giving it a star!
-
+  
