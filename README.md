@@ -67,7 +67,8 @@ This project demonstrates:
 
 ## 📸 Screenshots
 
-Add your app screenshots here:
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-02 at 17 23 03" src="https://github.com/user-attachments/assets/564bb969-e6a3-4e60-a5dc-9e0696c93a71" />
+
 
 ```text
 ![Xylophone App](screenshots/xylophone.png)
